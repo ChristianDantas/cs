@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.exe
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.dll
+C:\Users\dev\Desktop\seletiva cs\cs\bin\Debug\netcoreapp3.1\cs.pdb
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.dll
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.pdb
+C:\Users\dev\Desktop\seletiva cs\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
