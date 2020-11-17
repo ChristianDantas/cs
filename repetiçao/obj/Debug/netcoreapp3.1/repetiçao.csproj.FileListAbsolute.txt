@@ -1,0 +1,13 @@
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.exe
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.deps.json
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.runtimeconfig.json
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.runtimeconfig.dev.json
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.dll
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\bin\Debug\netcoreapp3.1\repetiçao.pdb
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.csprojAssemblyReference.cache
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.AssemblyInfoInputs.cache
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.AssemblyInfo.cs
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.csproj.CoreCompileInputs.cache
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.dll
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.pdb
+C:\Users\288\Desktop\MEUS DESENVOLVIMENTOS\backend\console\cs\repetiçao\obj\Debug\netcoreapp3.1\repetiçao.genruntimeconfig.cache
